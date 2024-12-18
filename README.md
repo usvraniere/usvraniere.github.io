@@ -5,9 +5,9 @@ This repository is intended to provide easy public access to documents, court re
 This repository is maintained by Mr. Raniere's defense team.
 
 # Pending Motion to Vacate the Conviction and Sentence
-This motion was filed on November 28, 2024 and is currently pending before Senior EDNY Judge Nicholas G. Garaufis
+This motion was filed on November 28, 2024 and is currently pending before Senior EDNY Judge Nicholas G. Garaufis.
 
-| Filing Name                                                   | View                              |
+| Filing Name                                                   |  Link                             |
 |---------------------------------------------------------------|-----------------------------------|
 | Report of Staging and Planting in the Search of 8 Hale, by Former FBI Senior Evidence Technician Kenneth DeNardo | [View](https://www.usvraniere.com/docket/1273-1-denardo-search-report.pdf) |
 | Exhibits to DeNardo's Report                                  | [View](https://www.usvraniere.com/docket/1273-2-denardo-search-report-exhibits.pdf) |
