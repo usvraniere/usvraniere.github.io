@@ -16,5 +16,5 @@ This motion was filed on November 28, 2024 and is currently pending before Senio
 | Joint Process Report by 4 Former FBI Experts of Systematic Evidentiary Misconduct                       | [View](https://www.usvraniere.com/docket/1273-8-joint-process-report-by-4-former-fbi-experts.pdf) |
 | Motion to Vacate Conviction & Sentence| [View](https://www.usvraniere.com/docket/1273-amended-2255-habeas-petition.pdf) |
 
-# Pending Appeal of the FBI Digital Evidence Malfeasance Motion for a New Trial 
+# Pending Appeal of Motion for a New Trial 
 [This motion](https://www.usvraniere.com/docket/2nd-cir-consolidated-appeal-of-rule-33.pdf) appealing the district court's denial of a Rule 33 motion for a new trial, based on the expert findings of government involvement in digital evidence falsification, was filed on October 28, 2024 and is currently pending before the Second Circuit Court of Appeals.
