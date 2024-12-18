@@ -13,7 +13,7 @@ This motion was filed on November 28, 2024 and is currently pending before Senio
 | Exhibits to DeNardo's Report                                  | [View](https://www.usvraniere.com/docket/1273-2-denardo-search-report-exhibits.pdf) |
 | Retired OIG and FBI Special Agent Mark Daniel Bowling's Declaration, Concurring with DeNardo | [View](https://www.usvraniere.com/docket/1273-3-bowling-declaration.pdf) |
 | Joint 7-Expert Report on Digital Falsification of Key Evidence Seized from 8 Hale                        | [View](https://www.usvraniere.com/docket/1273-7-joint-forensic-report-by-7-experts.pdf) |
-| Joint Process Report by 4 Former FBI Experts of Systematic Evidentiary Misconduct                       | [View]([https://www.usvraniere.com/docket/1273-7-joint-forensic-report-by-7-experts.pdf](https://www.usvraniere.com/docket/1273-8-joint-process-report-by-4-former-fbi-experts.pdf) |
+| Joint Process Report by 4 Former FBI Experts of Systematic Evidentiary Misconduct                       | [View](https://www.usvraniere.com/docket/1273-8-joint-process-report-by-4-former-fbi-experts.pdf) |
 | Motion to Vacate Conviction & Sentence| [View](https://www.usvraniere.com/docket/1273-amended-2255-habeas-petition.pdf) |
 
 # Pending Appeal of the FBI Digital Evidence Malfeasance Motion for a New Trial 
