@@ -153,7 +153,9 @@ The **report generated from Booth’s second forensic copy** contained **37 addi
 > “However, in this second report [by Booth of the second forensic copy] there were new files present in the file listing that were not on the previous report: Namely, IMG_0042, IMG_0081, IMG_0100, IMG_0172, IMG_0179, and IMG_0193, IMG_200.”
 
 📊 **Diagram Comparing the Two Reports:**  
-![Comparison of Booth's Report vs. Flatley's Report](https://www.usvraniere.com/assets/diagram-37-files.png){:target="_blank"}
+<p align="center">
+  <img src="https://www.usvraniere.com/assets/diagram-37-files.png" alt="Comparison of Booth's Report versus Flatley's Report" width="60%">
+</p>
 
 ---
 
