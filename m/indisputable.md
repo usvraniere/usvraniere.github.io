@@ -115,6 +115,8 @@ In **the last 3 days of a 6-week triall**, **FBI forensic examiner Brian Booth v
 
 FBI policy **strictly prohibits creating multiple forensic copies** of original digital evidence, as this undermines the integrity and authenticity of the evidence.
 
+SA Lever requested this prohibited second copy and CART member and Supervisory Special Agent (SSA) Trenton Schmatz improperly approved it, despite lacking the proper authority. (see DX 961 below)
+
 📄 **FBI Digital Evidence Policy Guide (Section 3.3.11.2):** [View Policy](https://vault.fbi.gov/digital-evidence-policy-guide/%20Digital%20Evidence%20Policy%20Guide%20Part%2001%20%28Final%29/view){:target="_blank"}  
 📄 **2nd Joint Analysis by 4 Former FBI CART Examiners (Pg. 3):** [Read Report](https://www.usvraniere.com/docket/1273-8-joint-process-report-by-4-former-fbi-experts.pdf){:target="_blank"}  
 📄 **DX 961 CART Notes:** [View Exhibit](https://www.usvraniere.com/trialexhibits/cart-notes-dx-961.pdf){:target="_blank"}
