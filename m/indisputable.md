@@ -62,3 +62,22 @@ See the prosecution's false assertions in these documents:
 📄 **Pre-Trial Transcript (Sept. 18, 2018):** [Read Court Transcript](https://www.usvraniere.com/docket/pretrial-transcript-20180918.pdf){:target="_blank"}
 
 ---
+### 5. The Prosecution Falsely Told the Court All Devices Were Sent to CART "Within Days" of Seizure
+
+
+📄 **Prosecution's 4 Years Post-Trial Disclosure (2023):** [Photo Tech Involvement](https://www.usvraniere.com/r/photo-tech-disclosure.pdf){:target="_blank"}  
+📄 **Further Gov. Disclosure (2024):** [Photo Tech Disclosed to Be An FBI Employee](https://www.usvraniere.com/r/FBI-photo-tech-disclosure.pdf){:target="_blank"}  
+
+---
+
+### 6. Four Years After Trial, the Prosecution Admitted an Unknown FBI Technician Altered Key Evidence  
+
+For **four years**, the prosecution concealed the existence of an **unidentified FBI technician** who, at the direction of **unidentified agents**, accessed and **altered the evidence**—a fact only revealed in **2023**, long after trial.
+
+**The prosecution refuses to disclose the identity of the agents, the technician, or any records of what was done.**
+
+📄 **Prosecution's 4 Years Post-Trial Disclosure (2023):** [Photo Tech Involvement](https://www.usvraniere.com/r/photo-tech-disclosure.pdf){:target="_blank"}  
+📄 **Further Gov. Disclosure (2024):** [Photo Tech Disclosed to Be An FBI Employee](https://www.usvraniere.com/r/FBI-photo-tech-disclosure.pdf){:target="_blank"}  
+
+---
+
