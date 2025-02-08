@@ -156,3 +156,38 @@ The **report generated from Booth’s second forensic copy** contained **37 addi
 ![Comparison of Booth's Report vs. Flatley's Report](https://www.usvraniere.com/assets/diagram-37-files.png){:target="_blank"}
 
 ---
+
+### 14. After Trial, the FBI Brought in Quantico Expert David Loveall—Who Was Given Access to the Withheld Second Copy  
+
+After trial, the **FBI brought in Quantico expert David Loveall**, granting him **exclusive access to the second forensic copy**, which has **been withheld from the defense**.  
+
+Loveall then **produced an undated, unsupported report** to counter defense claims of tampering. His report **relied on undisclosed work by examiner Stephen Flatley**, who **never testified**.  
+
+Neither **Loveall nor Flatley** were **cross-examined or subject to challenge in this case**.
+
+📄 **Loveall’s Report** [Read Report](https://www.usvraniere.com/docket/1213-3-government-forensic-opposition-by-loveall.pdf){:target="_blank"}  
+
+---
+
+### 15. Loveall Provided No Proof for His Claim About the 37-File Discrepancy  
+
+In his untested report, **Loveall asserted that the 37 additional files in Booth’s second forensic copy were due to “different settings” used by the examiners (Flatley and Booth, respectively).**  
+
+However, Loveall **provided no specifics on what settings were used, nor any proof to support this claim**.
+
+📄 **Loveall’s Report, ¶ 9:** [Read Report](https://www.usvraniere.com/docket/1213-3-government-forensic-opposition-by-loveall.pdf){:target="_blank"}  
+
+---
+
+### 16. Judge Garaufis Relied on Loveall’s Untested Report—Created With Exclusive Access to the Withheld Second Copy—To Deny a Hearing or Any Relief  
+
+Despite the **report being untested, undated, and based on exclusive access to the undisclosed second forensic copy**, **EDNY Senior Judge Nicholas G. Garaufis relied on Loveall’s report** to deny:  
+
+- A **hearing**  
+- A **new trial**  
+- **Any relief**  
+
+📄 **Denial of First Motion to Compel, Pg. 4, 7, 9, and 10:** [Read Ruling](https://www.usvraniere.com/docket/1224-denial-of-first-mtc.pdf){:target="_blank"}  
+📄 **Denial of Rule 33 Motion, Pg. 10:** [Read Ruling](https://www.usvraniere.com/docket/1256-denial-of-r33.pdf){:target="_blank"}  
+
+---
