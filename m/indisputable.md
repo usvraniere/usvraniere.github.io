@@ -16,6 +16,11 @@ During a key search, agents **created false scenes** using items of unknown orig
 📄 **Report:** Finding 6 of [Report by Former FBI Senior Evidence Technician Kenneth DeNardo](https://www.usvraniere.com/docket/1273-1-denardo-search-report.pdf){:target="_blank"} ("DeNardo Report")
 🎥 **Visual Breakdown:** [2-Minute Video Walkthrough](https://vimeo.com/1052027247/433d8ae497){:target="_blank"}
 
+🎥 **Watch the Video Below:**
+<p align="center">
+  <iframe src="https://player.vimeo.com/video/1052027247?h=433d8ae497" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ---
 ### 2. Falsified Search Log Entries
 
