@@ -123,3 +123,23 @@ SA Lever requested this prohibited second copy and CART member and Supervisory S
 
 ---
 
+### 11. Booth Testified That Only One Forensic Copy Was Allowed—But Never Disclosed He Had Already Created and Used a Second Copy  
+
+FBI forensic examiner **Brian Booth testified under oath** that **only one forensic copy from the original device is permitted** under FBI policy.  
+
+However, **he never disclosed that he had already created and used a second unauthorized copy**.
+
+📄 **Trial Transcript (June 12, 2019) at 4782:9–4784:1:** [Read Transcript](https://www.usvraniere.com/trial/20190612.pdf){:target="_blank"}
+
+---
+
+### 12. During Booth’s Cross-Examination, AUSA Tanya Hajjar Falsely Assured the Court That No Copies Were Made  
+
+While Booth was being **cross-examined**, **AUSA Tanya Hajjar interrupted, requested a sidebar, and falsely assured the court that Booth had made no copies**.  
+
+Hajjar falsely represented that Booth **“never said [he] was the one who imaged [created forensic copies of] the devices”**—despite Booth’s creation of the prohibited second forensic copy of the memory card.
+
+📄 **Trial Transcript (June 13, 2019) at 4893:3–4:** [Read Transcript](https://www.usvraniere.com/trial/20190613.pdf){:target="_blank"}
+
+---
+
