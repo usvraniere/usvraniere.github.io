@@ -9,39 +9,16 @@ The following are indisputable facts of government malfeasance in *US v. Raniere
 
 ---
 
-## Fact 1: The FBI created a second forensic image of a key piece of evidence in violation of protocol.
+### 1. Fabricated Evidence Scenes Presented to the Jury
 
-- The FBI’s own protocols dictate that only **one** forensic image should be created and used in analysis.
-- However, a second forensic image was created **in secret**, without disclosure to the defense or the court.
-- This second image contained **additional files** not found in the original forensic copy.
+During a key search, agents **created false scenes** using items of unknown origin, arranged them, and **photographed the manipulated setups** as evidence. These fabricated images were later **presented to the jury as authentic evidence**.
 
-### Supporting Evidence:
-- [Dr. James Richard Kiper’s Report](#) - Former FBI forensic expert’s analysis confirming the existence of a second forensic image.
-- [Defense Motion Document](#) - Legal filing outlining the undisclosed second forensic image.
-- [FBI Policy on Digital Forensics](#) - Official FBI guidelines restricting multiple forensic copies.
+📄 **Report:** Finding 6 of [Report by Former FBI Senior Evidence Technician Kenneth DeNardo](https://www.usvraniere.com/docket/1273-1-denardo-search-report.pdf){:target="_blank"}  
+🎥 **Visual Breakdown:** [2-Minute Video Walkthrough](https://vimeo.com/1052027247/433d8ae497){:target="_blank"}
 
 ---
+### 2. Falsified Search Log Entries
 
-## Fact 2: The prosecution falsely stated to the court that all electronic evidence was sent to CART “within days” of seizure.
+In the official **search evidence log**, where the observing agent is required to sign, **Agent McGinnis falsely signed Agent Mills' name** for **32 of 40 items**, misrepresenting the chain of custody.
 
-- The FBI's CART unit is responsible for handling digital evidence.
-- The prosecution misled the court by claiming that digital evidence was promptly processed.
-- In reality, key evidence sat **unaccounted for** for nearly **a year** before being delivered to CART.
-
-### Supporting Evidence:
-- [Court Transcript (June 10, 2019)](#) - Prosecutor’s false statement in court.
-- [FBI Chain of Custody Records](#) - Documents showing delays in evidence handling.
-- [Expert Analysis of Handling Irregularities](#) - Independent forensic experts confirm procedural violations.
-
----
-
-## Fact 3: A secret FBI technician accessed and altered key evidence **without authorization**.
-
-- This technician was never disclosed in official FBI chain of custody records.
-- The government only revealed their existence **years later**, after forensic analysis uncovered the unauthorized access.
-- The technician’s work resulted in **modifications** to critical metadata on the device.
-
-### Supporting Evidence:
-- [Newly Disclosed FBI Reports](#) - Previously hidden documents identifying the secret technician.
-- [Defense Forensic Report](#) - Expert findings of unauthorized file modifications.
-- [DOJ Opposition Motion](#) - Government's late admission of the technician’s involvement.
+📄 **Report:** Finding 3 of [DeNardo Report](https://www.usvraniere.com/docket/1273-1-denardo-search-report.pdf){:target="_blank"}
