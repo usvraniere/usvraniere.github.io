@@ -143,3 +143,16 @@ Hajjar falsely represented that Booth **“never said [he] was the one who image
 
 ---
 
+### 13. Booth’s Report of the Second Copy Contained 37 More Photos Than the First Copy’s Report  
+
+The **report generated from Booth’s second forensic copy** contained **37 additional photos** that **did not appear in the original forensic copy’s report**.  
+
+📄 **Dr. Kiper’s Report, Finding 2, Bates 005:** [Read Report](https://www.usvraniere.com/docket/1169-1-Kiper-Report){:target="_blank"}  
+
+📖 **Quote from Dr. Kiper’s Report:**  
+> “However, in this second report [by Booth of the second forensic copy] there were new files present in the file listing that were not on the previous report: Namely, IMG_0042, IMG_0081, IMG_0100, IMG_0172, IMG_0179, and IMG_0193, IMG_200.”
+
+📊 **Diagram Comparing the Two Reports:**  
+![Comparison of Booth's Report vs. Flatley's Report](https://www.usvraniere.com/assets/diagram-37-files.png){:target="_blank"}
+
+---
