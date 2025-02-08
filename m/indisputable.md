@@ -81,3 +81,32 @@ For **four years**, the prosecution concealed the existence of an **unidentified
 
 ---
 
+### 7. Camera and Hard Drive Were “Accidentally” Discovered to Contain Child Pornography Evidence and Used to Justify New Charges Just Nine Weeks Before Trial  
+
+Five months after the **unidentified FBI technician altered the memory card**, the **camera and hard drive—previously considered irrelevant—were suddenly “accidentally” discovered** to contain evidence of alleged child pornography. This discovery was then used to justify **new charges** against the defendant, just **nine weeks before trial**.
+
+📄 **Judge’s Memorandum & Order Denying Motion to Suppress (Doc. 618) at Pg 2.:** [Read Here](https://www.usvraniere.com/docket/618-denial-of-suppression.pdf){:target="_blank"}
+
+---
+
+### 8. The “Accidental Discovery” Was Impossible Under Proper FBI Protocol  
+An **accidental discovery was technically impossible** under standard FBI procedures. Proper protocol **requires filtering out all files** on the hard drive that fall **outside the search warrant’s authorized date range**.  
+
+Since the files in question were **outside that range**, they **should never have been viewable in the first place**.
+
+📄 **Declaration by Former FBI Senior Forensic Examiner Stacy Eldridge (Doc. 1273-5) at ¶ 5, 6, 8.:** [Read Here](https://www.usvraniere.com/docket/1273-5-eldridge-declaration.pdf){:target="_blank"}
+
+---
+
+### 9. The Day After the “Accidental Discovery,” Agent Lever Took the Hard Drive—And It Was Never Logged Back Into Custody  
+
+The **day after the so-called “accidental discovery,”** **Agent Lever checked out the hard drive**—months before trial.  
+
+However, **no record exists in the chain of custody** showing that the hard drive was **ever returned**.
+
+📄 **Finding 10 in DeNardo Report:** [Read Here](https://www.usvraniere.com/docket/1273-1-denardo-search-report.pdf){:target="_blank"}  
+📄 **Hard Drive Chain of Custody Record:** [View Document](https://www.usvraniere.com/r/hard-drive-chain-of-custody.pdf){:target="_blank"}
+
+---
+
+
