@@ -14,6 +14,7 @@ The following are indisputable facts of government malfeasance in *US v. Raniere
 During a key search, agents **created false scenes** using items of unknown origin, arranged them, and **photographed the manipulated setups** as evidence. These fabricated images were later **presented to the jury as authentic evidence**.
 
 📄 **Report:** Finding 6 of [Report by Former FBI Senior Evidence Technician Kenneth DeNardo](https://www.usvraniere.com/docket/1273-1-denardo-search-report.pdf){:target="_blank"} ("DeNardo Report")
+
 🎥 **Visual Breakdown:** [2-Minute Video Walkthrough](https://vimeo.com/1052027247/433d8ae497){:target="_blank"}
 
 🎥 **Watch the Video Below:**
