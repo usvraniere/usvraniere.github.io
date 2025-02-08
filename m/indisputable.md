@@ -45,3 +45,20 @@ During the **11-month delay**, on **September 19, 2018**, the memory card was **
 Because it had **not yet been forensically copied** by CART, there is **no verifiable record of its original contents**, raising serious concerns about the authenticity of the data later used as evidence.
 
 📄 **4 Former FBI CART Examiners' Analysis:** [Analysis of Secret FBI Photo Tech](https://www.usvraniere.com/docket/1235-1-joint-4-former-FBI-analysis-of-photo-tech.pdf){:target="_blank"} at Paragraph 20
+
+
+---
+
+### 5. The Prosecution Falsely Told the Court All Devices Were Sent to CART "Within Days" of Seizure
+
+The **prosecution falsely assured the court** that all seized electronic devices were sent to the FBI’s CART unit **“within days”** of seizure.  
+
+However, **chain of custody records and the prosecution's above-mentioned disclosure show this was untrue**—the camera and memory card, remained unprocessed for **nearly a year**, and were handled by unauthorized FBI personnel before ever reaching CART.
+
+See the prosecution's false assertions in these documents:
+
+📄 **Government Letter to Court (Doc. 129):** [Read Here](https://www.usvraniere.com/docket/129-gov-letter.pdf){:target="_blank"}  
+📄 **Government Letter to Court (Doc. 143):** [Read Here](https://www.usvraniere.com/docket/143-gov-letter.pdf){:target="_blank"}  
+📄 **Pre-Trial Transcript (Sept. 18, 2018):** [Read Court Transcript](https://www.usvraniere.com/docket/pretrial-transcript-20180918.pdf){:target="_blank"}
+
+---
