@@ -192,7 +192,7 @@ Despite the **report being untested, undated, and based on exclusive access to t
 - A **new trial**  
 - **Any relief**  
 
-📄 **Denial of First Motion to Compel, Pg. 4, 7, 9, and 10:** [Read Ruling](https://www.usvraniere.com/docket/1224-denial-of-first-mtc.pdf){:target="_blank"}  
-📄 **Denial of Rule 33 Motion, Pg. 10:** [Read Ruling](https://www.usvraniere.com/docket/1256-denial-of-r33.pdf){:target="_blank"}  
+📄 **Denial of First Motion to Compel, Pg. 4, 7, 9, and 10 where Loveall is discussed:** [Read Ruling](https://www.usvraniere.com/docket/1224-denial-of-first-mtc.pdf){:target="_blank"}  
+📄 **Denial of Rule 33 Motion, Pg. 10 where Loveall is discussed:** [Read Ruling](https://www.usvraniere.com/docket/1256-denial-of-r33.pdf){:target="_blank"}  
 
 ---
