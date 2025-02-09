@@ -13,7 +13,7 @@ The following are indisputable facts of government malfeasance in *US v. Raniere
 
 During a key search, agents **created false scenes** using items of unknown origin, arranged them, and **photographed the manipulated setups** as evidence. These fabricated images were later **presented to the jury as authentic evidence**.
 
-📄 **Report:** Finding 6 of [Report by Former FBI Senior Evidence Technician Kenneth DeNardo](https://www.usvraniere.com/docket/1273-1-denardo-search-report.pdf){:target="_blank"} ("DeNardo Report")
+📄 **Report:** Finding 6 on Page 16 of [Report by Former FBI Senior Evidence Technician Kenneth DeNardo](https://www.usvraniere.com/docket/1273-1-denardo-search-report.pdf){:target="_blank"} ("DeNardo Report"), entitled "Agents manufactured a scene on a bookshelf by adding and arranging items—including two, uncollected incriminating sex trafficking books of unknown origin, likely brought to the scene—and then used this false setup to take evidence photographs."
 
 📄 **FBI Search Photos:** [Photo Log By SA Christopher Mills](https://www.usvraniere.com/r/search-photo-log.pdf){:target="_blank"}
 
@@ -29,7 +29,7 @@ During a key search, agents **created false scenes** using items of unknown orig
 
 In the official **search evidence log**, where the observing agent is required to sign, **Agent McGinnis falsely signed Agent Mills' name** for **32 of 40 items**, misrepresenting the chain of custody.
 
-📄 **Report:** Finding 3 of [DeNardo Report](https://www.usvraniere.com/docket/1273-1-denardo-search-report.pdf){:target="_blank"}
+📄 **Report:** Finding 3 on Page of 9 [DeNardo Report](https://www.usvraniere.com/docket/1273-1-denardo-search-report.pdf){:target="_blank"}, entitled "SA McGinnis Improperly Signed As Other Agents For 80% of the Entries in the Evidence Recovery Log, Further Undermining Its Reliability and Integrity as a Real-Time Record"
 
 ---
 ### 3. Camera and Memory Card Were Withheld from CART and Handled by Unauthorized FBI Agents
@@ -39,10 +39,10 @@ Unlike all other seized items, the **camera and memory card were withheld from C
 This violated **FBI Digital Evidence Policy 3.3.4.5**, which mandates that **only CART personnel** can handle original digital evidence to preserve its integrity.
 
 📄 **Chain of Custody Record:** [Camera Chain of Custody](https://www.usvraniere.com/r/camera-chain-of-custody.pdf){:target="_blank"}  
-📄 **FBI Digital Evidence Policy Guide:** [View Official Policy](https://vault.fbi.gov/digital-evidence-policy-guide/%20Digital%20Evidence%20Policy%20Guide%20Part%2001%20%28Final%29/view){:target="_blank"}  
+📄 **FBI Digital Evidence Policy Guide, Section 3.3.4.5, Pages 21-22:** [View Official Policy](https://usvraniere.com/r/fbi-digital-evidence-policy-guide.pdf){:target="_blank"}  
 📄 **Prosecution's 4 Years Post-Trial Disclosure (2023):** [Photo Tech Involvement](https://www.usvraniere.com/r/photo-tech-disclosure.pdf){:target="_blank"}  
 📄 **Further Gov. Disclosure (2024):** [Photo Tech Disclosed to Be An FBI Employee](https://www.usvraniere.com/r/FBI-photo-tech-disclosure.pdf){:target="_blank"}  
-📄 **4 Former FBI CART Examiners' Analysis:** [Analysis of Secret FBI Photo Tech](https://www.usvraniere.com/docket/1235-1-joint-4-former-FBI-analysis-of-photo-tech.pdf){:target="_blank"}
+📄 **4 Former FBI CART Examiners' Analysis, Pages 1-3 describing the FBI photo tech's actions:** [Analysis of Secret FBI Photo Tech](https://www.usvraniere.com/docket/1235-1-joint-4-former-FBI-analysis-of-photo-tech.pdf){:target="_blank"}
 
 ---
 
@@ -52,7 +52,7 @@ During the **11-month delay**, on **September 19, 2018**, the memory card was **
 
 Because it had **not yet been forensically copied** by CART, there is **no verifiable record of its original contents**, raising serious concerns about the authenticity of the data later used as evidence.
 
-📄 **4 Former FBI CART Examiners' Analysis:** [Analysis of Secret FBI Photo Tech](https://www.usvraniere.com/docket/1235-1-joint-4-former-FBI-analysis-of-photo-tech.pdf){:target="_blank"} at Paragraph 20
+📄 **4 Former FBI CART Examiners' Analysis, Pg 5 ¶ 20, confirming that the extent of the alteration cannot be determined :** [Analysis of Secret FBI Photo Tech](https://www.usvraniere.com/docket/1235-1-joint-4-former-FBI-analysis-of-photo-tech.pdf){:target="_blank"}
 
 
 ---
@@ -65,16 +65,9 @@ However, **chain of custody records and the prosecution's above-mentioned disclo
 
 See the prosecution's false assertions in these documents:
 
-📄 **Government Letter to Court (Doc. 129):** [Read Here](https://www.usvraniere.com/docket/129-gov-letter.pdf){:target="_blank"}  
-📄 **Government Letter to Court (Doc. 143):** [Read Here](https://www.usvraniere.com/docket/143-gov-letter.pdf){:target="_blank"}  
-📄 **Pre-Trial Transcript (Sept. 18, 2018):** [Read Court Transcript](https://www.usvraniere.com/docket/pretrial-transcript-20180918.pdf){:target="_blank"}
-
----
-### 5. The Prosecution Falsely Told the Court All Devices Were Sent to CART "Within Days" of Seizure
-
-
-📄 **Prosecution's 4 Years Post-Trial Disclosure (2023):** [Photo Tech Involvement](https://www.usvraniere.com/r/photo-tech-disclosure.pdf){:target="_blank"}  
-📄 **Further Gov. Disclosure (2024):** [Photo Tech Disclosed to Be An FBI Employee](https://www.usvraniere.com/r/FBI-photo-tech-disclosure.pdf){:target="_blank"}  
+📄 **Government Letter to Court (Doc. 129) Page 2 ¶ 1:** [Read Here](https://www.usvraniere.com/docket/129-gov-letter.pdf){:target="_blank"}  
+📄 **Government Letter to Court (Doc. 143) on Page 1 ¶ 2 :** [Read Here](https://www.usvraniere.com/docket/143-gov-letter.pdf){:target="_blank"}  
+📄 **Pre-Trial Transcript (Sept. 18, 2018) at Page 36, Line 25 thru Page 37, Line 12:** [Read Court Transcript](https://www.usvraniere.com/docket/pretrial-transcript-20180918.pdf){:target="_blank"}
 
 ---
 
@@ -93,7 +86,7 @@ For **four years**, the prosecution concealed the existence of an **unidentified
 
 Five months after the **unidentified FBI technician altered the memory card**, the **camera and hard drive—previously considered irrelevant—were suddenly “accidentally” discovered** to contain evidence of alleged child pornography. This discovery was then used to justify **new charges** against the defendant, just **nine weeks before trial**.
 
-📄 **Judge’s Memorandum & Order Denying Motion to Suppress (Doc. 618) at Pg 2.:** [Read Here](https://www.usvraniere.com/docket/618-denial-of-suppression.pdf){:target="_blank"}
+📄 **Judge’s Memorandum & Order (Doc. 618) at Pg 2, which summarizes the timeline of the "discovery":** [Read Here](https://www.usvraniere.com/docket/618-denial-of-suppression.pdf){:target="_blank"}
 
 ---
 
@@ -102,7 +95,7 @@ An **accidental discovery was technically impossible** under standard FBI proced
 
 Since the files in question were **outside that range**, they **should never have been viewable in the first place**.
 
-📄 **Declaration by Former FBI Senior Forensic Examiner Stacy Eldridge (Doc. 1273-5) at ¶ 5, 6, 8.:** [Read Here](https://www.usvraniere.com/docket/1273-5-eldridge-declaration.pdf){:target="_blank"}
+📄 **Declaration by Former FBI Senior Forensic Examiner Stacy Eldridge (Doc. 1273-5) on Pages 1-2 at ¶ 5, 6, 8.:** [Read Here](https://www.usvraniere.com/docket/1273-5-eldridge-declaration.pdf){:target="_blank"}
 
 ---
 
@@ -112,22 +105,24 @@ The **day after the so-called “accidental discovery,”** **Agent Lever checke
 
 However, **no record exists in the chain of custody** showing that the hard drive was **ever returned**.
 
-📄 **Finding 10 in DeNardo Report:** [Read Here](https://www.usvraniere.com/docket/1273-1-denardo-search-report.pdf){:target="_blank"}  
+📄 **Finding 10 on Page 25 of DeNardo Report:** [Read Here](https://www.usvraniere.com/docket/1273-1-denardo-search-report.pdf){:target="_blank"}  
 📄 **Hard Drive Chain of Custody Record:** [View Document](https://www.usvraniere.com/r/hard-drive-chain-of-custody.pdf){:target="_blank"}
 
 ---
 
 ### 10. At the End of Trial, FBI Examiner Brian Booth Created an Unauthorized Second  Copy of the Memory Card  
 
-In **the last 3 days of a 6-week triall**, **FBI forensic examiner Brian Booth violated FBI protocol** by **creating a second unauthorized forensic copy** of the memory card.  
+In **the last 3 days of a 6-week trial**, **FBI forensic examiner Brian Booth violated FBI protocol** by **creating a second unauthorized forensic copy** of the memory card.  
 
 FBI policy **strictly prohibits creating multiple forensic copies** of original digital evidence, as this undermines the integrity and authenticity of the evidence.
 
+Multiple copies of the original are prohibited because it creates opportunities for alteration or tampering.
+
 SA Lever requested this prohibited second copy and CART member and Supervisory Special Agent (SSA) Trenton Schmatz improperly approved it, despite lacking the proper authority. (see DX 961 below)
 
-📄 **FBI Digital Evidence Policy Guide (Section 3.3.11.2):** [View Policy](https://vault.fbi.gov/digital-evidence-policy-guide/%20Digital%20Evidence%20Policy%20Guide%20Part%2001%20%28Final%29/view){:target="_blank"}  
+📄 **FBI Digital Evidence Policy Guide (Section 3.3.11.2) on Page 37:** [View Policy](https://usvraniere.com/r/fbi-digital-evidence-policy-guide.pdf){:target="_blank"}  
 📄 **2nd Joint Analysis by 4 Former FBI CART Examiners (Pg. 3):** [Read Report](https://www.usvraniere.com/docket/1273-8-joint-process-report-by-4-former-fbi-experts.pdf){:target="_blank"}  
-📄 **DX 961 CART Notes:** [View Exhibit](https://www.usvraniere.com/trialexhibits/cart-notes-dx-961.pdf){:target="_blank"}
+📄 **DX 961 CART Notes – see page 29, entry on June 7, 2019 showing that Lever and Schmatz were involved in facilitating the creation of the prohibited second copy:** [View Exhibit](https://www.usvraniere.com/trialexhibits/cart-notes-dx-961.pdf){:target="_blank"}
 
 ---
 
@@ -147,7 +142,7 @@ While Booth was being **cross-examined**, **AUSA Tanya Hajjar interrupted, reque
 
 Hajjar falsely represented that Booth **“never said [he] was the one who imaged [created forensic copies of] the devices”**—despite Booth’s creation of the prohibited second forensic copy of the memory card.
 
-📄 **Trial Transcript (June 13, 2019) at 4893:3–4:** [Read Transcript](https://www.usvraniere.com/trial/20190613.pdf){:target="_blank"}
+📄 **Trial Transcript (June 13, 2019) at Page 4893, Lines 3–4:** [Read Transcript](https://www.usvraniere.com/trial/20190613.pdf){:target="_blank"}
 
 ---
 
@@ -155,7 +150,7 @@ Hajjar falsely represented that Booth **“never said [he] was the one who image
 
 The **report generated from Booth’s second forensic copy** contained **37 additional photos** that **did not appear in the original forensic copy’s report**.  
 
-📄 **Dr. Kiper’s Report, Finding 2, Bates 005:** [Read Report](https://www.usvraniere.com/docket/1169-1-Kiper-Report){:target="_blank"}  
+📄 **Dr. Kiper’s Report, Finding 2, Pg. 005:** [Read Report](https://www.usvraniere.com/docket/1169-1-kiper-report.pdf){:target="_blank"}  
 
 📖 **Quote from Dr. Kiper’s Report:**  
 > “However, in this second report [by Booth of the second forensic copy] there were new files present in the file listing that were not on the previous report: Namely, IMG_0042, IMG_0081, IMG_0100, IMG_0172, IMG_0179, and IMG_0193, IMG_200.”
@@ -185,7 +180,7 @@ In his untested report, **Loveall asserted that the 37 additional files in Booth
 
 However, Loveall **provided no specifics on what settings were used, nor any proof to support this claim**.
 
-📄 **Loveall’s Report, ¶ 9:** [Read Report](https://www.usvraniere.com/docket/1213-3-government-forensic-opposition-by-loveall.pdf){:target="_blank"}  
+📄 **Loveall’s Report at Page 4, ¶ 9:** [Read Report](https://www.usvraniere.com/docket/1213-3-government-forensic-opposition-by-loveall.pdf){:target="_blank"}  
 
 ---
 
