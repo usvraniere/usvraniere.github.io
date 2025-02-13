@@ -5,7 +5,11 @@ layout: default
 
 # Indisputable Facts of Government Malfeasance in *US v. Raniere*
 
-The following are indisputable facts of government malfeasance in *US v. Raniere*. Each fact is accompanied by supporting evidence, including court filings, forensic reports, and expert statements.
+The following are key and indisputable facts of government malfeasance in *US v. Raniere*. 
+
+These facts are deemed indisputable because they are plainly evident, easily verifiable by non-experts, and not subject to reasonable dispute.
+
+Each fact is accompanied by supporting evidence, including court filings, forensic reports, and expert statements.
 
 ---
 
