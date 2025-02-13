@@ -39,7 +39,7 @@ Unlike all other seized items, the **camera and memory card were withheld from C
 This violated **FBI Digital Evidence Policy 3.3.4.5**, which mandates that **only CART personnel** can handle original digital evidence to preserve its integrity.
 
 📄 **Chain of Custody Record:** [Camera Chain of Custody](https://www.usvraniere.com/r/camera-chain-of-custody.pdf){:target="_blank"}  
-📄 **FBI Digital Evidence Policy Guide, Section 3.3.4.5, Pages 21-22:** [View Official Policy](https://usvraniere.com/r/fbi-digital-evidence-policy-guide.pdf){:target="_blank"}  
+📄 **FBI Digital Evidence Policy Guide, Section 3.3.4.5, Pages 21-22:** [View Official Policy](https://wwww.usvraniere.com/r/fbi-digital-evidence-policy-guide.pdf){:target="_blank"}  
 📄 **Prosecution's 4 Years Post-Trial Disclosure (2023):** [Photo Tech Involvement](https://www.usvraniere.com/r/photo-tech-disclosure.pdf){:target="_blank"}  
 📄 **Further Gov. Disclosure (2024):** [Photo Tech Disclosed to Be An FBI Employee](https://www.usvraniere.com/r/FBI-photo-tech-disclosure.pdf){:target="_blank"}  
 📄 **4 Former FBI CART Examiners' Analysis, Pages 1-3 describing the FBI photo tech's actions:** [Analysis of Secret FBI Photo Tech](https://www.usvraniere.com/docket/1235-1-joint-4-former-FBI-analysis-of-photo-tech.pdf){:target="_blank"}
@@ -120,7 +120,7 @@ Multiple copies of the original are prohibited because it creates opportunities 
 
 SA Lever requested this prohibited second copy and CART member and Supervisory Special Agent (SSA) Trenton Schmatz improperly approved it, despite lacking the proper authority. (see DX 961 below)
 
-📄 **FBI Digital Evidence Policy Guide (Section 3.3.11.2) on Page 37:** [View Policy](https://usvraniere.com/r/fbi-digital-evidence-policy-guide.pdf){:target="_blank"}  
+📄 **FBI Digital Evidence Policy Guide (Section 3.3.11.2) on Page 37:** [View Policy](https://www.usvraniere.com/r/fbi-digital-evidence-policy-guide.pdf){:target="_blank"}  
 📄 **2nd Joint Analysis by 4 Former FBI CART Examiners (Pg. 3):** [Read Report](https://www.usvraniere.com/docket/1273-8-joint-process-report-by-4-former-fbi-experts.pdf){:target="_blank"}  
 📄 **DX 961 CART Notes – see page 29, entry on June 7, 2019 showing that Lever and Schmatz were involved in facilitating the creation of the prohibited second copy:** [View Exhibit](https://www.usvraniere.com/trialexhibits/cart-notes-dx-961.pdf){:target="_blank"}
 
