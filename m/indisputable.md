@@ -205,12 +205,12 @@ Despite the **report being untested, undated, and based on exclusive access to t
 
 Special Agent Christopher Mills testified that the camera, which contained the memory card, was reviewed only with CART’s involvement:
 
-Hajjar: What happens when you recover a piece of digital evidence like Government Exhibit 520 [the camera] and 524 [the camera card]?
-
-Mills: ... [i]f we want the evidence to be reviewed, we would submit a request to our CART team... who would review that evidence for us or assist[] us in reviewing the evidence with us.
-
-Hajjar: And is that what happened in this case with Government Exhibit 520 [the camera]?
-Mills: Yes. (T:4307).
+> Hajjar: What happens when you recover a piece of digital evidence like Government Exhibit 520 [the camera] and 524 [the camera card]?
+>
+> Mills: ... [i]f we want the evidence to be reviewed, we would submit a request to our CART team... who would review that evidence for us or assist[] us in reviewing the evidence with us.
+>
+> Hajjar: And is that what happened in this case with Government Exhibit 520 [the camera]?
+> Mills: Yes. (T:4307).
 
 📄 **Trial Transcript (6/10/19), Pg. 4307** [Read Transcript](https://www.usvraniere.com/trial/20190610.pdf){:target="_blank"}  
 
