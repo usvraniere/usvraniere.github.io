@@ -17,7 +17,9 @@ Each fact is accompanied by supporting evidence, including court filings, forens
 
 During a key search, agents **created false scenes** using items of unknown origin, arranged them, and **photographed the manipulated setups** as evidence. These fabricated images were later **presented to the jury as authentic evidence**.
 
-📄 **Report:** Finding 6 on Page 16 of [Report by Former FBI Senior Evidence Technician Kenneth DeNardo](https://www.usvraniere.com/docket/1273-1-denardo-search-report.pdf){:target="_blank"} ("DeNardo Report"), entitled "Agents manufactured a scene on a bookshelf by adding and arranging items—including two, uncollected incriminating sex trafficking books of unknown origin, likely brought to the scene—and then used this false setup to take evidence photographs."
+This finding, as well as  other findings of fraudulent conduct in the search, have been verified by two former FBI experts with a combined 43 years of FBI service. The first is Former FBI Senior Evidence Technician Kenneth DeNardo (see Mr. DeNardo's report linked below), corroborated by retired FBI Assistant Special Agent in Charge Mark Daniel Bowling; [see Mr. Bowling's declaration](https://www.usvraniere.com/docket/1273-3-bowling-declaration.pdf) {:target="_blank"}
+
+📄 **Report:** Finding 6 on Page 16 of [DeNardo Report](https://www.usvraniere.com/docket/1273-1-denardo-search-report.pdf){:target="_blank"} ("DeNardo Report"), entitled "Agents manufactured a scene on a bookshelf by adding and arranging items—including two, uncollected incriminating sex trafficking books of unknown origin, likely brought to the scene—and then used this false setup to take evidence photographs."
 
 📄 **FBI Search Photos:** [Photo Log By SA Christopher Mills](https://www.usvraniere.com/r/search-photo-log.pdf){:target="_blank"}
 
