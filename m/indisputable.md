@@ -200,3 +200,34 @@ Despite the **report being untested, undated, and based on exclusive access to t
 📄 **Denial of Rule 33 Motion, Pg. 10 where Loveall is discussed:** [Read Ruling](https://www.usvraniere.com/docket/1256-denial-of-r33.pdf){:target="_blank"}  
 
 ---
+
+### 17. AUSA Hajjar Elicited False Testimony from SA Christopher Mills about the Handling of the Camera 
+
+Special Agent Christopher Mills testified that the camera, which contained the memory card, was reviewed only with CART’s involvement:
+
+Hajjar: What happens when you recover a piece of digital evidence like Government Exhibit 520 [the camera] and 524 [the camera card]?
+
+Mills: ... [i]f we want the evidence to be reviewed, we would submit a request to our CART team... who would review that evidence for us or assist[] us in reviewing the evidence with us.
+
+Hajjar: And is that what happened in this case with Government Exhibit 520 [the camera]?
+Mills: Yes. (T:4307).
+
+📄 **Trial Transcript (6/10/19), Pg. 4307** [Read Transcript](https://www.usvraniere.com/trial/20190610.pdf){:target="_blank"}  
+
+However, this testimony was patently false. The camera had been repeatedly accessed by unauthorized FBI personnel outside of CART, months before it was ever delivered there — and in fact, it was withheld from CART for nearly a year. During that period, its memory card was irreversibly altered, and its chain of custody was compromised, as discussed above.
+
+---
+
+### 18. The Hard Drive Was Checked Out and Never Returned
+
+After SA Lever checked the hard drive out of Evidence Control on February 22, 2019 (almost 3 months before trial), there is no record of its whereabouts. (See Figure 18 below). Notably, no entry indicates it was ever returned to Evidence Control.
+
+📄 **Chain of Custody Record:** [Hard Drive Chain of Custody](https://www.usvraniere.com/r/hard-drive-chain-of-custody.pdf){:target="_blank"}  
+📊 **Diagram Comparing the Two Reports:**  
+<p align="center">
+  <img src="https://www.usvraniere.com/assets/hd-coc.png" alt="Excerpt of Hard Drive Chain of Custody" width="60%">
+</p>
+📄 **Report:** Finding 10 on Page of 25 [DeNardo Report](https://www.usvraniere.com/docket/1273-1-denardo-search-report.pdf){:target="_blank"}, entitled "There is no record in the chain of custody of what happened to the hard drive after February 22, 2019, months before trial."
+
+
+---
