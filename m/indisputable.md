@@ -140,7 +140,7 @@ However, **he never disclosed that he had already created and used a second unau
 
 ---
 
-### 12. During Booth’s Cross-Examination, AUSA Tanya Hajjar Falsely Assured the Court That No Copies Were Made  
+### 12. During Booth’s Cross-Examination, AUSA Tanya Hajjar Falsely Assured the Court That Booth Made No Copies  
 
 While Booth was being **cross-examined**, **AUSA Tanya Hajjar interrupted, requested a sidebar, and falsely assured the court that Booth had made no copies**.  
 
