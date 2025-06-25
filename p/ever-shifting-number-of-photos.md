@@ -1,6 +1,6 @@
 # The Government Had an Ever-Shifting Number of Alleged Illicit Photos
 
-On appeal, the government claimed an ever-shifting number of alleged child pornography images:
+Strangely, the government has repeatedly changed the number of alleged illicit photos they have charged:
 
 - Before trial: **“Approximately 15 explicit images”** across two dates (A226). [See Excerpt of Government Pre-Trial Memorandum (3/29/19, Doc. 485 at Pg. 9)](https://www.usvraniere.com/docket/485-excerpt-approx-15.pdf){:target="_blank"}
 
