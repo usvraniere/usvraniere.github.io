@@ -6,7 +6,7 @@ The label is on the leftmost hard drive, which is the silver/gray LaCie hard dri
 
 However, in the inventory as well as the evidence recovery log, Item 2 is listed as “Western Digital S/N [serial number] WCAS81365334”, which matches the serial number of the black hard drive photographed by the Computer Analysis Response Team (CART). See the diagram below.
 
-📊 **Diagram Comparing the Two Reports:**  
+📊 **Diagram**  
 <p align="center">
   <img src="https://www.usvraniere.com/assets/silver-black.png" alt="Excerpt of Hard Drive Chain of Custody" width="60%">
 </p>
