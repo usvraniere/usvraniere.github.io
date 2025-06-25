@@ -225,7 +225,7 @@ After SA Lever checked the hard drive out of Evidence Control on February 22, 20
 📄 **Chain of Custody Record:** [Hard Drive Chain of Custody](https://www.usvraniere.com/r/hard-drive-chain-of-custody.pdf){:target="_blank"}  
 📊 **Diagram Comparing the Two Reports:**  
 <p align="center">
-  <img src="https://www.usvraniere.com/assets/hd-coc.png" alt="Excerpt of Hard Drive Chain of Custody" width="60%">
+  <img src="https://www.usvraniere.com/assets/hdd-coc.png" alt="Excerpt of Hard Drive Chain of Custody" width="60%">
 </p>
 📄 **Report:** Finding 10 on Page of 25 [DeNardo Report](https://www.usvraniere.com/docket/1273-1-denardo-search-report.pdf){:target="_blank"}, entitled "There is no record in the chain of custody of what happened to the hard drive after February 22, 2019, months before trial."
 
